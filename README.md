@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, web friend, 
+
+I'm Christian Burk, and I'm using GitHub to help my students at Metropolitan Community College's [Code School](https://mccneb.edu/codeschool.aspx), where I help teach, focusing on HTML and CSS.
+
+I worked in the Omaha non-profit community from 1999 - 2020 for the chamber of commerce, symphony, children's museum and a university.
+
+I am sort of addicted to registering domains for projects I never really work on. It's a problem.
+
+
 
 <!--
 **omahane/omahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
