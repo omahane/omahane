@@ -1,6 +1,6 @@
 ### Hi, web friend, 
 
-I'm Christian Burk, and I'm using GitHub to work on the [va.gov](https://va.gov) web modernization for [CivicActions](https://civicactions.com).
+I'm Christian Burk, and I'm using GitHub to work on the [va.gov web modernization](https://github.com/omahane/va.gov-cms) on the Drupal side of the house for [CivicActions](https://civicactions.com).
 
 I worked in the Omaha non-profit community from 1999 - 2020 for the chamber of commerce, symphony, children's museum and a university.
 
